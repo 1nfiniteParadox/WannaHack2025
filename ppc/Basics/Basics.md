@@ -6,7 +6,7 @@ I had to give the square of 100 numbers each within 1 second, than it will give 
 
 The following is the code that I wrote.
 
-![[basic.py]]
+![basic.py](./files/basic.py)
 
 ## Flag
 WannaHack{pwntools_m4g1c_aqbW9L2a}

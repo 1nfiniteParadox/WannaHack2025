@@ -2,7 +2,7 @@
 Pretty sure my flag is safe as these conditions are IMPOSSIBLE lol
 
 ## Given Files
-![[chall.py]]
+![chall.py](./Impossible/chall.py)
 
 ## Solution
 You want a string which satisfies the following conditions:

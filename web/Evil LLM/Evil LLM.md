@@ -20,7 +20,7 @@ And found the following payload -
 
 This was enough to jailbreak the LLM.
 
-![[Pasted image 20250114202649.png]]
+![Pasted image 20250114202649.png](./files/20250114202649.png)
 
 ## Flag
 WannaHack{3V1L_CORP_S3CR3TS_L34K3D_VbDOHwPV}

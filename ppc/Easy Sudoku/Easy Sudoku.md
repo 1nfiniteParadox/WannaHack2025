@@ -26,7 +26,7 @@ Input Answer:
 ## Solution
 Used Sudoku library for python to automate the process with the following code.
 
-![[sudo.py]]
+![sudo.py](./files/sudo.py)
 
 ## Flag
 WannaHack{Very_3Ay_sud0KU_indE3D_Tyzpk47y}

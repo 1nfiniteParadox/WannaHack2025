@@ -2,14 +2,14 @@
 Made a cheap looking amazon. The prices though may not be cheap :)
 
 ## Given Files
-![[chall.c]]
+![chall.c](./files/chall.c)
 
 ## Solution
-![[Pasted image 20250114164446.png]]
+![Pasted image 20250114164446.png](./files/20250114164446.png)
 
 Upon analyzing the code in the given files, I came across this condition
 
-![[Pasted image 20250114164529.png]]
+![Pasted image 20250114164529.png](./files/20250114164529.png)
 
 There is no lower limit to the condition, that is you can Deposit a negative number.
 

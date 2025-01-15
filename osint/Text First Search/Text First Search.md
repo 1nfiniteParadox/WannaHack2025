@@ -3,7 +3,7 @@ Find this guy's JEE Advance Roll Number.
 Make sure to wrap the roll number in WannaHack{}!
 
 ## Given Files
-![[file.txt]]
+![file.txt](./files/file.txt)
 
 ## Solution
 The given file had no extension.
@@ -13,7 +13,7 @@ Used [dcode cypher identifier](https://www.dcode.fr/cipher-identifier) to idenif
 It was encoded in Base 64.
 
 Used [cyberchef](https://gchq.github.io/CyberChef/#recipe=From_Base64('A-Za-z0-9%2B/%3D',true,false)) to decode the string and download the file.
-![[download (3).jpg]]
+![download.jpg](./files/download.jpg)
 
 Used Google Lens on this image and found the LinkedIn profile of this person.
 

@@ -7,7 +7,7 @@ I had to guess a number between 1 and 100000000 within 30 times.
 
 So, I implemented binary search to find the number.
 
-![[guess.py]]
+![guess.py](./files/guess.py)
 
 Upon finding the number, it rewarded me with the flag.
 

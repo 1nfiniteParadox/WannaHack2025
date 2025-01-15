@@ -5,15 +5,15 @@ Anyway in the root directory there exists a file flag.txt. I don't know what to 
 ## Solution
 Since the flag is in the root directory, I tried for path traversal.
 
-![[Pasted image 20250114200837.png]]
+![Pasted image 20250114200837.png](./files/20250114200837.png)
 
 First I uploaded any file to the system so that I can get the path in the url.
 
-![[Pasted image 20250114201010.png]]
+![Pasted image 20250114201010.png](./files/20250114201010.png)
 
 Now that I know the path, I simply edited it to "../flag.txt"
 
-![[Pasted image 20250114201435.png]]
+![Pasted image 20250114201435.png](./files/20250114201435.png)
 
 ## Flag
 WannaHack{tr4v3rs3_th3_p4th_6iS9zRNk}

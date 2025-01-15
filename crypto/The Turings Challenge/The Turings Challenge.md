@@ -18,7 +18,7 @@ The following details where given in the description
 
 Decoded the string and found the flag
 
-![[Pasted image 20250114154814.png]]
+![Pasted image 20250114154814.png](./The_Turings_Challenge/20250114154814.png)
 
 ## Flag
 WannaHack{EniGMa_maCHiNe_sAys_heIL_HItLeR}

@@ -2,7 +2,7 @@
 My virtual kitty got this from some friend on the internet and she won't tell me who :(
 
 ## Given Files
-![[chall (1).png]]
+![pastebin.png](./Kittys_friend/pastebin.png)
 
 ## Solution
 The image spelled "pastebin" which meant the flag had something to do with pastebin website.

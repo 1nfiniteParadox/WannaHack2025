@@ -8,14 +8,14 @@ Flag format: `WannaHack{latitude_longitude}`
 Eg. If the coordinates are 55.334546, 20.123321, the flag will be WannaHack{55.334546_20.123321}
 
 ## Given Files
-![[location2.jpg]]
+![location2.jpg](./files/location2.jpg)
 
 ## Solution
 Upon using Google Lens on the given image, I found out that it is The National Art Center, Tokyo.
 
 I opened the place in google maps street view and found the exact location.
 
-![[Pasted image 20250114174915.png]]
+![Pasted image 20250114174915.png](./files/20250114174915.png)
 
 The red box gives the latitude and longitude of the place.
 
